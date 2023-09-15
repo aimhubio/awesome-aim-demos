@@ -1,0 +1,98 @@
+<html><head><title>The Ronco Principle</title><!-- <META NAME="ROBOTS" CONTENT="NOODP"> -->
+<link href="http://ycombinator.com/arc/arc.png" rel="shortcut icon"/>
+</head><body background="https://s.turbifycdn.com/aah/paulgraham/essays-4.gif" bgcolor="#ffffff" link="#000099" text="#000000" vlink="#464646"><table border="0" cellpadding="0" cellspacing="0"><tr valign="top"><td><map name="1717c64a02ebc117"><area coords="0,0,67,21" href="index.html" shape="rect"/><area coords="0,21,67,42" href="articles.html" shape="rect"/><area coords="0,42,67,63" href="http://www.amazon.com/gp/product/0596006624" shape="rect"/><area coords="0,63,67,84" href="books.html" shape="rect"/><area coords="0,84,67,105" href="http://ycombinator.com" shape="rect"/><area coords="0,105,67,126" href="arc.html" shape="rect"/><area coords="0,126,67,147" href="bel.html" shape="rect"/><area coords="0,147,67,168" href="lisp.html" shape="rect"/><area coords="0,168,67,189" href="antispam.html" shape="rect"/><area coords="0,189,67,210" href="kedrosky.html" shape="rect"/><area coords="0,210,67,231" href="faq.html" shape="rect"/><area coords="0,231,67,252" href="raq.html" shape="rect"/><area coords="0,252,67,273" href="quo.html" shape="rect"/><area coords="0,273,67,294" href="rss.html" shape="rect"/><area coords="0,294,67,315" href="bio.html" shape="rect"/><area coords="0,315,67,336" href="https://twitter.com/paulg" shape="rect"/><area coords="0,336,67,357" href="https://mas.to/@paulg" shape="rect"/></map><img border="0" height="357" hspace="0" ismap="" src="https://s.turbifycdn.com/aah/paulgraham/essays-5.gif" usemap="#1717c64a02ebc117" vspace="0" width="69"/></td><td><img border="0" height="1" src="https://sep.turbifycdn.com/ca/Img/trans_1x1.gif" width="26"/></td><td><a href="index.html"><img border="0" height="45" hspace="0" src="https://s.turbifycdn.com/aah/paulgraham/essays-6.gif" vspace="0" width="410"/></a><br/><br/><table border="0" cellpadding="0" cellspacing="0" width="435"><tr valign="top"><td width="435"><img alt="The Ronco Principle" border="0" height="18" hspace="0" src="https://s.turbifycdn.com/aah/paulgraham/the-ronco-principle-4.gif" vspace="0" width="162"/><br/><br/><font face="verdana" size="2">January 2015<br/><br/>No one, VC or angel, has invested in more of the top startups than
+Ron Conway.  He knows what happened in every deal in the Valley,
+half the time because he arranged it.<br/><br/>And yet he's a super nice guy.  In fact, nice is not the word.
+Ronco is good. I know of zero instances in which he has behaved
+badly.  It's hard even to imagine.<br/><br/>When I first came to Silicon Valley I thought "How lucky that someone
+so powerful is so benevolent."  But gradually I realized it wasn't
+luck.  It was by being benevolent that Ronco became so powerful.
+All the deals he gets to invest in come to him through referrals.
+Google did. Facebook did. Twitter was a referral from Evan Williams
+himself.  And the reason so many people refer deals to him is that
+he's proven himself to be a good guy.<br/><br/>Good does not mean being a pushover.  I would not want to face an
+angry Ronco.  But if Ron's angry at you, it's because you did
+something wrong.  Ron is so old school he's Old Testament.  He will
+smite you in his just wrath, but there's no malice in it.<br/><br/>In almost every domain there are advantages to seeming good.  It
+makes people trust you.  But actually being good is an expensive
+way to seem good.  To an amoral person it might seem to be overkill.<br/><br/>In some fields it might be, but apparently not in the startup world.
+Though plenty of investors are jerks, there is a clear trend among
+them: the most successful investors are also the most upstanding. 
+<font color="#999999">[<a href="#f1n"><font color="#999999">1</font></a>]</font><br/><br/>It was not always this way.  I would not feel confident saying that
+about investors twenty years ago.<br/><br/>What changed?  The startup world became more transparent and more
+unpredictable.  Both make it harder to seem good without actually
+being good.<br/><br/>It's obvious why transparency has that effect.  When an investor
+maltreats a founder now, it gets out.  Maybe not all the way to the
+press, but other founders hear about it, and that investor
+starts to lose deals. 
+<font color="#999999">[<a href="#f2n"><font color="#999999">2</font></a>]</font><br/><br/>The effect of unpredictability is more subtle.  It increases the
+work of being inconsistent.  If you're going to be two-faced, you
+have to know who you should be nice to and who you can get away
+with being nasty to.  In the startup world, things change so rapidly
+that you can't tell.  The random college kid you talk to today might
+in a couple years be the CEO of the hottest startup in the Valley.
+If you can't tell who to be nice to, you have to be nice to everyone.
+And probably the only people who can manage that are the people who
+are genuinely good.<br/><br/>In a sufficiently connected and unpredictable world, you can't seem
+good without being good.<br/><br/>As often happens, Ron discovered how to be the investor of the
+future by accident.  He didn't foresee the future of startup
+investing, realize it would pay to be upstanding, and force himself
+to behave that way. It would feel unnatural to him to behave any
+other way.  He was already 
+<a href="startupideas.html">living in the future</a>.<br/><br/>Fortunately that future is not limited to the startup world.  The
+startup world is more transparent and unpredictable than most, but
+almost everywhere the trend is in that direction.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><b>Notes</b><br/><br/>[<a name="f1n"><font color="#000000">1</font></a>]
+I'm not saying that if you sort investors by benevolence
+you've also sorted them by returns, but rather that if you do a
+scatterplot with benevolence on the x axis and returns on the y,
+you'd see a clear upward trend.<br/><br/>[<a name="f2n"><font color="#000000">2</font></a>]
+Y Combinator in particular, because it aggregates data
+from so many startups, has a pretty comprehensive view of
+investor behavior.<br/><br/>
+<b>Thanks</b> to Sam Altman and Jessica Livingston for reading drafts of
+this.<br/><br/></font></td></tr></table><br/><table border="0" cellpadding="0" cellspacing="0" width="435"><tr><td><img border="0" height="5" src="https://sep.turbifycdn.com/ca/Img/trans_1x1.gif" width="1"/></td></tr><tr valign="top"><td width="435"><img align="left" border="0" height="14" hspace="0" src="https://s.turbifycdn.com/aah/paulgraham/how-to-get-new-ideas-5.gif" vspace="0" width="12"/><font face="verdana" size="2"><a href="https://note.com/tokyojack/n/nad5412419026">Japanese Translation</a><img border="0" height="2" src="https://sep.turbifycdn.com/ca/Img/trans_1x1.gif" width="1"/><br/></font></td></tr><tr><td><img border="0" height="3" src="https://sep.turbifycdn.com/ca/Img/trans_1x1.gif" width="1"/></td></tr></table><br/><table border="0" cellpadding="0" cellspacing="0" width="435"><tr><td><font face="verdana" size="2"><br/><br/><hr/></font></td></tr></table></td></tr></table></body>
+<script type="text/javascript">
+csell_env = 'ue1';
+ var storeCheckoutDomain = 'order.store.turbify.net';
+</script>
+<script type="text/javascript">
+  function toOSTN(node){
+    if(node.hasAttributes()){
+      for (const attr of node.attributes) {
+        node.setAttribute(attr.name,attr.value.replace(/(us-dc1-order|us-dc2-order|order)\.(store|stores)\.([a-z0-9-]+)\.(net|com)/g, storeCheckoutDomain));
+      }
+    }
+  };
+  document.addEventListener('readystatechange', event => {
+  if(typeof storeCheckoutDomain != 'undefined' && storeCheckoutDomain != "order.store.yahoo.net"){
+    if (event.target.readyState === "interactive") {
+      fromOSYN = document.getElementsByTagName('form');
+        for (let i = 0; i < fromOSYN.length; i++) {
+          toOSTN(fromOSYN[i]);
+        }
+      }
+    }
+  });
+</script>
+<script type="text/javascript">
+// Begin Store Generated Code
+ </script> <script src="https://s.turbifycdn.com/lq/ult/ylc_1.9.js" type="text/javascript"></script> <script src="https://s.turbifycdn.com/ae/lib/smbiz/store/csell/beacon-a9518fc6e4.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+// Begin Store Generated Code
+ csell_page_data = {}; csell_page_rec_data = []; ts='TOK_STORE_ID';
+</script>
+<script type="text/javascript">
+// Begin Store Generated Code
+function csell_GLOBAL_INIT_TAG() { var csell_token_map = {}; csell_token_map['TOK_SPACEID'] = '2022276099'; csell_token_map['TOK_URL'] = ''; csell_token_map['TOK_BEACON_TYPE'] = 'prod'; csell_token_map['TOK_IS_ORDERABLE'] = '2'; csell_token_map['TOK_RAND_KEY'] = 't'; csell_token_map['TOK_STORE_ID'] = 'paulgraham'; csell_token_map['TOK_ITEM_ID_LIST'] = 'ronco'; csell_token_map['TOK_ORDER_HOST'] = 'order.store.turbify.net';  c = csell_page_data; var x = (typeof storeCheckoutDomain == 'string')?storeCheckoutDomain:'order.store.yahoo.net'; var t = csell_token_map; c['s'] = t['TOK_SPACEID']; c['url'] = t['TOK_URL']; c['si'] = t[ts]; c['ii'] = t['TOK_ITEM_ID_LIST']; c['bt'] = t['TOK_BEACON_TYPE']; c['rnd'] = t['TOK_RAND_KEY']; c['io'] = t['TOK_IS_ORDERABLE']; YStore.addItemUrl = 'http%s://'+x+'/'+t[ts]+'/ymix/MetaController.html?eventName.addEvent&cartDS.shoppingcart_ROW0_m_orderItemVector_ROW0_m_itemId=%s&cartDS.shoppingcart_ROW0_m_orderItemVector_ROW0_m_quantity=1&ysco_key_cs_item=1&sectionId=ysco.cart&ysco_key_store_id='+t[ts]; } 
+</script>
+<script type="text/javascript">
+// Begin Store Generated Code
+function csell_REC_VIEW_TAG() {  var env = (typeof csell_env == 'string')?csell_env:'prod'; var p = csell_page_data; var a = '/sid='+p['si']+'/io='+p['io']+'/ii='+p['ii']+'/bt='+p['bt']+'-view'+'/en='+env; var r=Math.random(); YStore.CrossSellBeacon.renderBeaconWithRecData(p['url']+'/p/s='+p['s']+'/'+p['rnd']+'='+r+a); } 
+</script>
+<script type="text/javascript">
+// Begin Store Generated Code
+var csell_token_map = {}; csell_token_map['TOK_PAGE'] = 'p'; csell_token_map['TOK_CURR_SYM'] = 'US$'; csell_token_map['TOK_WS_URL'] = 'https://paulgraham./cs/recommend?itemids=ronco&location=p'; csell_token_map['TOK_SHOW_CS_RECS'] = 'false';  var t = csell_token_map; csell_GLOBAL_INIT_TAG(); YStore.page = t['TOK_PAGE']; YStore.currencySymbol = t['TOK_CURR_SYM']; YStore.crossSellUrl = t['TOK_WS_URL']; YStore.showCSRecs = t['TOK_SHOW_CS_RECS']; </script> <script src="https://s.turbifycdn.com/ae/store/secure/recs-1.3.2.2.js" type="text/javascript"></script> <script type="text/javascript">
+</script>
+</html>
+<!-- html109.prod.store.e1b.lumsb.com Fri Sep 15 06:08:26 PDT 2023 -->
