@@ -1,0 +1,6 @@
+langchain==0.0.283
+aim
+click
+python-dotenv
+openai
+google-search-results
