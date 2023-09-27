@@ -14,6 +14,7 @@ This repository contains 3 demos showcasing the capabilities and features of Aim
     
 3. **LlamaIndex Retriever**:
     - A query engine tailored to answer questions over your data.
+    - Logs hparams, metrics, images, figures.
 
 For detailed instructions on how to set up and use each demo app, please refer to the individual readme files within their respective directories.
 
@@ -21,4 +22,3 @@ For detailed instructions on how to set up and use each demo app, please refer t
 
 - Ensure you have the latest version of Aim installed.
 - Obtain and instrument an OpenAI API key.
-- Install the corresponding Aim app for logging and observability.

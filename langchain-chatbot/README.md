@@ -8,7 +8,6 @@
 
 **Prerequisites:**
 - Make sure Aim latest version is installed.
-- Make sure `langchain-debugger` Aim app is installed (github.com/aimhubio/langchain-debugger).
 
 ## Screenshots
 

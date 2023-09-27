@@ -6,9 +6,8 @@ Aim is instrumented to track model performance metrics, images and plotly figure
 ## Get Started
 
 This app already includes logs of several trainings, so you can just run Aim UI:
-- `aim ui --package asp`
+- `aim ui`
 
 Otherwise, run your own trainings:
 1. Install requirements `pip install -r requirements.txt`
-2. Make sure the latest version of Aim is installed
-3. Run `python train.py`
+2. Run `python train.py`
