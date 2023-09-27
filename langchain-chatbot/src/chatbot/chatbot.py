@@ -5,11 +5,11 @@ from langchain.chat_models import ChatOpenAI
 from langchain.utilities import SerpAPIWrapper
 from langchain.agents import initialize_agent
 
-from langchain_debugger import AimGenericCallbackHandler
+from aimstack.langchain_debugger.callback_handlers import GenericCallbackHandler
 
 def chatbot(serpapi_key, openai_key):
     # Configs
-    model_name = 'gpt-3.5-turbo'
+    model_name = 'gpt-4-0613'
 
     # Simple chatbot implementation
     memory = ConversationBufferMemory(memory_key="chat_history")
@@ -37,7 +37,7 @@ def chatbot(serpapi_key, openai_key):
     # TODO: log agent_chain.__dict__
 
     # Init the callback
-    aim_cb = AimGenericCallbackHandler()
+    aim_cb = GenericCallbackHandler()
 
     # Run the bot
     while True:
