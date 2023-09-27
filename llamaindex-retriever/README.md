@@ -16,4 +16,4 @@ You can build your own index by following the instructions menioned below.
 
 **Prerequisites:**
 - Make sure Aim latest version is installed.
-- Make sure llamaindex-observer app is installed (not accessible yet, contact Gor).
+- Make sure llamaindex-observer app is installed (https://github.com/aimhubio/llamaindex-observer).
