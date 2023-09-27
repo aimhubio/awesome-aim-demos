@@ -21,14 +21,13 @@ index = load_index_from_storage(storage_context, service_context=service_context
 query_engine = index.as_query_engine()
 
 res = query_engine.query(
-    "Who is Paul Graham? What he suggests about building companies?"
+    "How startups succeed?"
 )
-
+aim_cb.flush()
 print(res)
-
-print('\n'*10)
 
 res = query_engine.query(
     "What Paul Graham thinks is the most reliable way to become a billionaire?"
 )
+aim_cb.flush()
 print(res)
